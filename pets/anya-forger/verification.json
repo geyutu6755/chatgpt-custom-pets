@@ -1,0 +1,26 @@
+{
+  "validated_at": "2026-10-18",
+  "valid": true,
+  "format": "ChatGPT Pets v2",
+  "png": "work/spritesheet.png",
+  "sha256": "d1c76b6b8123bd7bf399ec058eb09ada7df566a8748324c0f64749cf399121fb",
+  "width": 1536,
+  "height": 2288,
+  "cell_width": 192,
+  "cell_height": 208,
+  "frames_per_row": [
+    6,
+    8,
+    8,
+    4,
+    5,
+    8,
+    6,
+    6,
+    6,
+    8,
+    8
+  ],
+  "errors": [],
+  "desktop_webp_alpha_and_visible_pixels_match_png": true
+}
